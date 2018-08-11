@@ -1,0 +1,36 @@
+var carouseldata = { 
+   carousels : [
+    {
+      productName: "Loreal Shampoo",
+      slideid: 0,
+      activeStatus: "active",
+      imageUrl: "images/arkm.jpg",
+      description : "This is a Shampooo pic from Aditya",
+      offer: "120"
+    },
+    {
+      productName: "Headsets",
+      slideid: 1,
+      imageUrl: "images/bg-1.jpg",
+      description: "This is a micro phone image from Aditya ",
+      active: "",
+      offer: "300"
+    },
+    {
+      productName: "Fastract Watch",
+      imageUrl: "images/bg-2.jpg",
+      slideid: 2,
+      description: "This is the Fastrack image from Aditya",
+      active: "",
+      offer: "100"
+    }
+  ] 
+};
+
+
+
+
+
+  
+
+
