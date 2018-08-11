@@ -1,29 +1,38 @@
 var carouseldata = { 
    carousels : [
-    {
-      productName: "Loreal Shampoo",
-      slideid: 0,
+   {
+      no: 0,
+      imageUrl: "images/darknight.jpg",
+      slideName: "Darknight Suite",
+      offer: " $ 450 per Suite ",
       activeStatus: "active",
-      imageUrl: "images/arkm.jpg",
-      description : "This is a Shampooo pic from Aditya",
-      offer: "120"
+      description: "Arkham Night"
     },
     {
-      productName: "Headsets",
-      slideid: 1,
-      imageUrl: "images/bg-1.jpg",
-      description: "This is a micro phone image from Aditya ",
-      active: "",
-      offer: "300"
+      no: 1,
+      imageUrl: "images/batmangauthm.jpg",
+      slideName: "Batman Gautham Suite",
+      offer: "$ 550 per Suite ",
+      activeStatus: "",
+      description: "Bruse Waynee."
     },
     {
-      productName: "Fastract Watch",
-      imageUrl: "images/bg-2.jpg",
-      slideid: 2,
-      description: "This is the Fastrack image from Aditya",
-      active: "",
-      offer: "100"
+      no": 2,
+      imageUrl: "images/ironman.jpg",
+      slideName: "Ironman  Suite",
+      offer: "$ 150 per Suite ",
+      activeStatus: "",
+      description: "IronMan."
+    },
+    {
+      no: 3,
+      imageUrl: "images/theft.jpg",
+      slideName: "Timeshift Suite",
+      offer: "$ 50 per Suite ",
+      activeStatus: "",
+      description: "Crimson crane."
     }
+    
   ] 
 };
 
